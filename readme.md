@@ -21,13 +21,13 @@ Pandas Docs: https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 
 ### New Project Installation
 
-####Python (Latest Version)
+**Python (Latest Version)**
 
-####PIP Installation Packages
+**PIP Installation Packages**
 
 For python and pip installation use references above.
 
-####Simple Salesforce Library
+**Simple Salesforce Library**
 
 Guide: https://pypi.org/project/simple-salesforce/
 
